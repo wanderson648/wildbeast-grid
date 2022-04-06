@@ -1,4 +1,4 @@
-<h1>Wildbest</h1>
+<h1>Wildbeast</h1>
 
 <h2>Site feito todo com CSS Grid Layout</h2>
 <h3>Todo responsivo</h3>
